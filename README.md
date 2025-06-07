@@ -1,7 +1,7 @@
 ![Imagem](https://camo.githubusercontent.com/6b128f0ee66987a70f019fd0a39d161a05c9188e57762de6539a69c98317d512/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67267468656d653d73796e746877617665266865696768743d3132302673656374696f6e3d686561646572)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=6E16F7FF&center=true&width=850&lines=Hi+there👋;I'm+Lucas+Fedrigo.;Quality+Assurance.;Automation+test.)](https://git.io/typing-svg)
-- 🎓  Bachelor's degree in Informática on Universidade Estadual de Maringá (UEM).
+- 🎓  Bachelor's degree in software engineering on Universidade Estadual de Maringá (UEM).
 - 🐞  Currently specializing in load testing.
 - 🌱  Looking to collab with tests on open source projects.
 ______________________________________________________________________________________________________________
